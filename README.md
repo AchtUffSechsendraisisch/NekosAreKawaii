@@ -1,5 +1,5 @@
 ## About me 
-Hi, I'm Adrian, a developer who likes to program Minecraft mods (private only).
+Hi, I'm Adrian, a developer who likes to program Minecraft mods.
 <br>
 <br>
 Discord: nekosarekawaii
