@@ -2,8 +2,11 @@
 Hi, I'm Adrian, a developer who likes to program Minecraft mods.
 <br>
 <br>
-Discord: nekosarekawaii
+You can contact me by using one of the options on my website.
 <br>
-YouTube: @NekosAreReallyCute
+My Discord Tag is also on my website.
 <br>
-Twitch: nekosarereallycute
+<br>
+My website:
+<br>
+https://nekosarekawaii.de/
